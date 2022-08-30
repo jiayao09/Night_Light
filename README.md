@@ -10,6 +10,27 @@ Final view before I package everything in the box.
 
 <img src="https://user-images.githubusercontent.com/110358483/185731587-1e23c9e0-f1e7-4f95-9565-a4e1113caf48.jpg" width=45% height=20%>
 
+RECENT UPDATE:
+
+- Include a 3D printing feature and a laser cutting component as a new decorative
+
+- To get a more colorful duck, swap RGB-LED with Ws2812.
+
+- Switch from the IR infrared sensor to the more stable Bluetooth sensor, which can be controlled by an Android app.
+
+- Lights can be changed based on the music by replacing the sound sensor with an IR (infrared) human motion sensor.
+
+![nn02](https://user-images.githubusercontent.com/110358483/187520013-15501308-0dbe-4ed0-9a37-edb5db9f598a.png)
+
+
+https://user-images.githubusercontent.com/110358483/187514166-f22852cb-fc70-40c8-b927-e4e7bea9ec13.mp4
+
+
+
+</br>
+CURRENT DESIGN MODE:
+
+</br>
 Mode 1: detect mode:
 IR Infrared + brightness sensor 
 When the brightness is low and human motion is detected, the night light will switch on.
