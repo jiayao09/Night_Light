@@ -10,17 +10,23 @@ Final view before I package everything in the box.
 
 <img src="https://user-images.githubusercontent.com/110358483/185731587-1e23c9e0-f1e7-4f95-9565-a4e1113caf48.jpg" width=45% height=20%>
 
-RECENT UPDATE:
-
-- Include a 3D printing feature and a laser cutting component as a new decorative
+</br>
+RECENT UPDATE: (The video for this update will be released in the next two weeks)
+</br>
+- Include a 3D printing part (file is upload if you are interested in my duck) and laser cutting component (dxf file is attached) as a new decorative
 
 - To get a more colorful duck, swap RGB-LED with Ws2812.
 
 - Switch from the IR infrared sensor to the more stable Bluetooth sensor, which can be controlled by an Android app.
 
+
+<img src="https://user-images.githubusercontent.com/110358483/188025085-88aad158-057e-49c3-9915-8e68b34d2b3f.png" width=20% height=20%>
+
+
+
 - Lights can be changed based on the music by replacing the sound sensor with an IR (infrared) human motion sensor.
 
-![nn02](https://user-images.githubusercontent.com/110358483/187520013-15501308-0dbe-4ed0-9a37-edb5db9f598a.png)
+<img src="https://user-images.githubusercontent.com/110358483/187520013-15501308-0dbe-4ed0-9a37-edb5db9f598a.png" width=45% height=20%>
 
 
 https://user-images.githubusercontent.com/110358483/187514166-f22852cb-fc70-40c8-b927-e4e7bea9ec13.mp4
@@ -29,25 +35,26 @@ https://user-images.githubusercontent.com/110358483/187514166-f22852cb-fc70-40c8
 
 </br>
 CURRENT DESIGN MODE:
-
 </br>
-Mode 1: detect mode:
-IR Infrared + brightness sensor 
-When the brightness is low and human motion is detected, the night light will switch on.
+
+Mode 1: detect mode
+</br>
+Sound sensor + brightness sensor 
+When the brightness is low and Sound is detected, the night light will switch on.
   - the default color is white ( Can be change to different color)
-  
-https://user-images.githubusercontent.com/110358483/185727114-b6bb8073-501c-42c4-ac30-aa270a14f70a.mp4
 
 </br>
-Mode 2: Normal mode:
-
-</br> 1. on and off 
+Mode 2: Normal mode
+</br> 1. On and off 
 </br> 2. Change to set color (red, green, blue, purple, white)
+</br> 3. Control by Andriod app 
 </br>
 </br>
-Mode 3: Environment detector:
-</br>
-</br> Activate the OLED display and measure the current temperature, brightness, and humidity of the surrounding area.
+
+Mode 3: Environment detector
+</br> 1. Activate the OLED display and measure the current temperature, brightness, and humidity of the surrounding area.
+</br> 2. Switch for OLED display screen
+
 
 </br>
 I know you are here for him, no one wants to check out a night light.
