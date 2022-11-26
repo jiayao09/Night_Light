@@ -13,7 +13,7 @@ Final view before I package everything in the box.
 
 
 
-## RECENT UPDATE: (The video for this update will be released in the next two weeks)
+## RECENT UPDATE:
 </br>
 - Include a 3D printing part (file is upload if you are interested in my duck) and laser cutting component (dxf file is attached) as a new decorative
 
