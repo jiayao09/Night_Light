@@ -17,6 +17,8 @@ A video was supposed to be here. (Still having hard time to film everything with
 
 - To get a more colorful duck, swap RGB-LED with Ws2812.
 
+https://user-images.githubusercontent.com/110358483/187514166-f22852cb-fc70-40c8-b927-e4e7bea9ec13.mp4
+
 - Switch from the IR infrared sensor to the more stable Bluetooth sensor, which can be controlled by an Android app.
 
 
@@ -27,7 +29,6 @@ A video was supposed to be here. (Still having hard time to film everything with
 
 <img src="https://user-images.githubusercontent.com/110358483/187520013-15501308-0dbe-4ed0-9a37-edb5db9f598a.png" width=45% height=20%>
 
-https://user-images.githubusercontent.com/110358483/187514166-f22852cb-fc70-40c8-b927-e4e7bea9ec13.mp4
 
 
 ## CURRENT DESIGN MODE:
