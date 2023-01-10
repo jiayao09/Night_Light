@@ -3,7 +3,11 @@
 
 I designed a night light for my hamster that controls the RGB-LED night light based on the human (or hamster) body infrared motion sensor and the current brightness of the environment. Additionally, according to UK Home Office advice, the temperature in the hamster chamber should be maintained consistently between 20 and 24 degrees Celsius. To make sure the hamster is in the best habitat, I have also included humidity and temperature detection. Last but not least, I included a color-changing mode in case the hamster ever decides to host a party.
 
-A video was supposed to be here. (Still having hard time to film everything with two hands :), but the code is working!!!)
+A complete video was supposed to be here. (Still having hard time to film everything with two hands :), but the code is working!!!)
+
+
+https://user-images.githubusercontent.com/110358483/211510444-115eef84-b0dc-48bd-b94e-4d2924034de6.mp4
+
 
 
 ## RECENT UPDATE:
