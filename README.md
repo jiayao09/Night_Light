@@ -10,34 +10,29 @@ https://user-images.githubusercontent.com/110358483/211510444-115eef84-b0dc-48bd
 
 
 
-## RECENT UPDATE:
+## DETAIL:
 </br>
 
-- Include a 3D printing part (file is upload if you are interested in my duck) and laser cutting component (dxf file is attached) as a new decorative
+* **3D printing && Laser Cutting part**
+Include a 3D printing part (file is upload if you are interested in my duck) and laser cutting component (dxf file is attached) as a new decorative
 
-<img src="https://user-images.githubusercontent.com/110358483/204239794-be2ef1dd-76f9-4e8d-ba1d-984c3c4a8b95.jpg" width=50% height=50%>
-<img src="https://user-images.githubusercontent.com/110358483/204239842-d531fd35-3879-4a0f-9d26-47c51acbf321.jpg" width=50% height=50%>
+<img src="https://user-images.githubusercontent.com/110358483/211921837-66123feb-cf87-4c14-91fe-4678f2c03e33.png" width=40% height=40%> <img src="https://user-images.githubusercontent.com/110358483/211923526-c8d1b310-ad55-4f20-ada7-d852fc5a77ab.jpg" width=40% height=40%>
 
-
-- To get a more colorful duck, swap RGB-LED with Ws2812.
-
-https://user-images.githubusercontent.com/110358483/187514166-f22852cb-fc70-40c8-b927-e4e7bea9ec13.mp4
-
-- Switch from the IR infrared sensor to the more stable Bluetooth sensor, which can be controlled by an Android app.
-
+* **Software**
+The Duck Light's functionality is written in C++ using Arduino IDE. The android device is created with the editor of RemoteXY.com, which functions as a remote control to toggle the display mode and light mode. Bluetooth enables communication between the android device and the Duck Light.
 
 <img src="https://user-images.githubusercontent.com/110358483/188025085-88aad158-057e-49c3-9915-8e68b34d2b3f.png" width=20% height=20%>
 
 
-- Lights can be changed based on the music by replacing the sound sensor with an IR (infrared) human motion sensor, and this is the new layout for the circuit board.
-
-<img src="https://user-images.githubusercontent.com/110358483/187520013-15501308-0dbe-4ed0-9a37-edb5db9f598a.png" width=45% height=20%>
+* **Circuit Connection**
+![image](https://user-images.githubusercontent.com/110358483/211924026-98be2130-ea3f-4e76-8cbd-a0cdbe0ad21b.png)
 
 
 
 ## CURRENT DESIGN MODE:
 
 ###### Mode 1: detect mode
+
 Sound sensor + brightness sensor 
 When the brightness is low and Sound is detected, the night light will switch on.
   - the default color is white ( Can be change to different color)
