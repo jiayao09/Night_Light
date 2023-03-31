@@ -31,7 +31,7 @@ The Duck Light's functionality is written in C++ using Arduino IDE. The android 
 
 * **Additional**
 
-I know you are here for him, no one wants to check out a night light.
+Check out my hamster
 
 <img src="https://user-images.githubusercontent.com/110358483/185726824-95e51461-57ff-4efd-b0c1-65d19b495856.jpg" width=45% height=20%>
 
